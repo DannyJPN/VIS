@@ -1,0 +1,55 @@
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.pdb
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CoreCompileInputs.cache
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.dll
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessGeneralLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessMSSQLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessXMLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessGeneralLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessXMLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessGeneralLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessXMLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessGeneralLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessMSSQLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessXMLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessLayerLib.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessGeneralLib.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessMSSQLLib.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessXMLLib.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessGeneralLib.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessMSSQLLib.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\bin\Debug\DataAccessXMLLib.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.csproj.CopyComplete
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLib\obj\Debug\BusinessLayerLib.pdb

@@ -1,0 +1,37 @@
+﻿@model WebMVCFace.Models.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+    bool? loginsuccesful = ViewBag.Loginsuccessful;
+}
+
+<h1>Přihlášení</h1>
+
+@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>Uživatelské jméno:</td>
+            <td>@Html.TextBoxFor(x => x.Username)</td>
+
+        </tr>
+        <tr>
+            <td>Heslo: </td>
+            <td>@Html.PasswordFor(x => x.Password)</td>
+
+        </tr>
+        <tr>
+            <td></td>
+            <td><button type="submit" >Přihlásit se</button></td>
+        </tr>
+
+    </table>
+    @if ( loginsuccesful.HasValue&&loginsuccesful.Value==false)
+    {
+        <div >
+            Nesprávné přihlašovací údaje.
+        </div>
+    }
+
+}
+

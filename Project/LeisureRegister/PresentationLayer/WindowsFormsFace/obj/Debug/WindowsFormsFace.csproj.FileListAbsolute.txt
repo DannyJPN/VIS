@@ -1,0 +1,100 @@
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.SuggestedBindingRedirects.cache
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ActionChooser.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.AddToGroupControl.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ChildSearcher.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.GenericControl.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.RegisterControl.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.SearchControl.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.UserChooser.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\PresentationLayer.WindowsFormsFace.Form1.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Properties.Resources.resources
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.GenerateResource.cache
+E:\Consolidated\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ActionChooser.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.AddToGroupControl.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ChildSearcher.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.GenericControl.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.RegisterControl.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.SearchControl.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.UserChooser.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\PresentationLayer.WindowsFormsFace.Form1.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Properties.Resources.resources
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.GenerateResource.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.exe.config
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.exe
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessLayerLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessGeneralLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessMSSQLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessXMLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessLayerLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessGeneralLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessXMLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CopyComplete
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.exe
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.exe.config
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.exe
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessGeneralLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessXMLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessLayerLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessGeneralLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessMSSQLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessXMLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.SuggestedBindingRedirects.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ActionChooser.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.AddToGroupControl.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ChildSearcher.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.GenericControl.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.RegisterControl.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.SearchControl.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.UserChooser.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\PresentationLayer.WindowsFormsFace.Form1.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Properties.Resources.resources
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.GenerateResource.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.exe
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.exe.config
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.exe
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\WindowsFormsFace.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessLayerLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessGeneralLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessToDataAccessDTOLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessMSSQLLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessXMLLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessLayerLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessGeneralLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\BusinessToDataAccessDTOLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessMSSQLLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\bin\Debug\DataAccessXMLLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.SuggestedBindingRedirects.cache
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ActionChooser.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.AddToGroupControl.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.ChildSearcher.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.GenericControl.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.RegisterControl.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.SearchControl.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Classes.UserControls.UserChooser.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\PresentationLayer.WindowsFormsFace.Form1.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.Properties.Resources.resources
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.GenerateResource.cache
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.csproj.CopyComplete
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.exe
+F:\NextCloud\Leisure\PresentationLayer\WindowsFormsFace\obj\Debug\WindowsFormsFace.pdb

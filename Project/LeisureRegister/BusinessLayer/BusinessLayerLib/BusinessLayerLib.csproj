@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E3CF957-EF04-4A0D-A692-BFFE30983BA1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessLayerLib</RootNamespace>
+    <AssemblyName>BusinessLayerLib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\DataContainers\Address.cs" />
+    <Compile Include="Classes\DataContainers\Child.cs" />
+    <Compile Include="Classes\DataContainers\City.cs" />
+    <Compile Include="Classes\DataContainers\CityPart.cs" />
+    <Compile Include="Classes\DataContainers\GroupLeader.cs" />
+    <Compile Include="Classes\DataContainers\GroupLeading.cs" />
+    <Compile Include="Classes\DataContainers\GroupMembership.cs" />
+    <Compile Include="Classes\DataContainers\HobbyGroup.cs" />
+    <Compile Include="Classes\DataContainers\InsuranceCompany.cs" />
+    <Compile Include="Classes\DataContainers\LeisureObject.cs" />
+    <Compile Include="Classes\DataContainers\Parent.cs" />
+    <Compile Include="Classes\DataContainers\Person.cs" />
+    <Compile Include="Classes\Debugging\ConsoleWriteListener.cs" />
+    <Compile Include="Classes\Debugging\FileWriteListener.cs" />
+    <Compile Include="Classes\MemoryManagement\AssemblyInfo.cs" />
+    <Compile Include="Classes\MemoryManagement\InMemoryObjectController.cs" />
+    <Compile Include="Classes\Other\ExportPluginLoader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\BusinessToDataAccessDTOLib.csproj">
+      <Project>{87A63168-333A-47E1-ACD5-C1FF85E8400B}</Project>
+      <Name>BusinessToDataAccessDTOLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DataAccessLayer\DataAccessGeneralLib\DataAccessGeneralLib.csproj">
+      <Project>{2d7b98b4-a12c-4815-9bcb-a8fe0f49b900}</Project>
+      <Name>DataAccessGeneralLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DataAccessLayer\DataAccessMSSQLLib\DataAccessMSSQLLib.csproj">
+      <Project>{D2FA3DB2-A882-407F-8C24-4BC272AB5CF4}</Project>
+      <Name>DataAccessMSSQLLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DataAccessLayer\DataAccessXMLLib\DataAccessXMLLib.csproj">
+      <Project>{D7F229D7-3824-4EAE-9046-27E7759FA75D}</Project>
+      <Name>DataAccessXMLLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

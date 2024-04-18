@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87A63168-333A-47E1-ACD5-C1FF85E8400B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessToDataAccessDTOLib</RootNamespace>
+    <AssemblyName>BusinessToDataAccessDTOLib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Attributes\ForeignKeyAttribute.cs" />
+    <Compile Include="Classes\Attributes\PrimaryKeyAttribute.cs" />
+    <Compile Include="Classes\Attributes\ReferredObjectAttribute.cs" />
+    <Compile Include="Classes\Attributes\StandardSQLAttribute.cs" />
+    <Compile Include="Classes\DTO\AddressDTO.cs" />
+    <Compile Include="Classes\DTO\ChildDTO.cs" />
+    <Compile Include="Classes\DTO\CityDTO.cs" />
+    <Compile Include="Classes\DTO\CityPartDTO.cs" />
+    <Compile Include="Classes\DTO\GroupLeaderDTO.cs" />
+    <Compile Include="Classes\DTO\GroupLeadingDTO.cs" />
+    <Compile Include="Classes\DTO\GroupMembershipDTO.cs" />
+    <Compile Include="Classes\DTO\HobbyGroupDTO.cs" />
+    <Compile Include="Classes\DTO\InsuranceCompanyDTO.cs" />
+    <Compile Include="Classes\DTO\LeisureObjectDTO.cs" />
+    <Compile Include="Classes\DTO\ParentDTO.cs" />
+    <Compile Include="Classes\DTO\PersonDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

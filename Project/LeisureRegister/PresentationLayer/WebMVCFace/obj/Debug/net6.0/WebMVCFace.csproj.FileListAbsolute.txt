@@ -1,0 +1,111 @@
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.AssemblyInfo.cs
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.RazorAssemblyInfo.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.RazorAssemblyInfo.cs
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\appsettings.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.staticwebassets.runtime.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.exe
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.deps.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.runtimeconfig.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessLayerLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessGeneralLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessMSSQLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessXMLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessLayerLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessGeneralLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessXMLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\bundle\WebMVCFace.styles.css
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\projectbundle\WebMVCFace.bundle.scp.css
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.CopyComplete
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\refint\WebMVCFace.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.genruntimeconfig.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\ref\WebMVCFace.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\appsettings.Development.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\appsettings.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.staticwebassets.runtime.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.exe
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.deps.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.runtimeconfig.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessGeneralLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessXMLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessLayerLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessGeneralLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessMSSQLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessXMLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.GeneratedMSBuildEditorConfig.editorconfig
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.AssemblyInfoInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.AssemblyInfo.cs
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.MvcApplicationPartsAssemblyInfo.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.RazorAssemblyInfo.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.RazorAssemblyInfo.cs
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\staticwebassets.build.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\staticwebassets.development.json
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\bundle\WebMVCFace.styles.css
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\projectbundle\WebMVCFace.bundle.scp.css
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\refint\WebMVCFace.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.genruntimeconfig.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFace\obj\Debug\net6.0\ref\WebMVCFace.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\appsettings.Development.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\appsettings.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.staticwebassets.runtime.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.exe
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.deps.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.runtimeconfig.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\WebMVCFace.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessLayerLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessToDataAccessDTOLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessGeneralLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessMSSQLLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessXMLLib.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessLayerLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\BusinessToDataAccessDTOLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessGeneralLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessMSSQLLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\bin\Debug\net6.0\DataAccessXMLLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.GeneratedMSBuildEditorConfig.editorconfig
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.AssemblyInfoInputs.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.AssemblyInfo.cs
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.MvcApplicationPartsAssemblyInfo.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.RazorAssemblyInfo.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.RazorAssemblyInfo.cs
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\staticwebassets.build.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\staticwebassets.development.json
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\bundle\WebMVCFace.styles.css
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\scopedcss\projectbundle\WebMVCFace.bundle.scp.css
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.csproj.CopyComplete
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\refint\WebMVCFace.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\WebMVCFace.genruntimeconfig.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFace\obj\Debug\net6.0\ref\WebMVCFace.dll

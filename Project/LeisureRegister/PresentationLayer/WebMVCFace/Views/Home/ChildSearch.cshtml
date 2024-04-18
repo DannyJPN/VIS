@@ -1,0 +1,76 @@
+﻿@model ChildSearchModel
+@{
+    ViewData["Title"] = "Vyhledat děti";
+    List<List<string>> info = ViewBag.Info;
+}
+
+<h2>ChildSearch</h2>
+
+@using (Html.BeginForm("ChildSearch"))
+{
+<button type="submit" value="search_button" name="search">Vyhledat</button>
+    <p>Splňovat všechny podmínky @Html.CheckBoxFor(x=>x.conditions_together)</p>
+<table>
+    <tr>
+
+        <td>@Html.TextBoxFor(x => x.registrationnumber)</td>
+        <td>@Html.TextBoxFor(x => x.healthstate)</td>
+
+        <td>@Html.TextBoxFor(x => x.comments)</td>
+        <td>@Html.TextBoxFor(x => x.birthdate)</td>
+        <td>@Html.TextBoxFor(x => x.schoolname)</td>
+
+        <td>@Html.TextBoxFor(x => x.name)</td>
+        <td>@Html.TextBoxFor(x => x.surname)</td>
+        <td>@Html.TextBoxFor(x => x.postalcode)</td>
+        <td>@Html.TextBoxFor(x => x.email)</td>
+        <td>@Html.TextBoxFor(x => x.phone)</td>
+
+
+    </tr>
+    <tr>
+
+        <td>Registrační číslo            </td>
+
+        <td>Zdravotní stav     </td>
+
+        <td>Komentáře  </td>
+
+        <td>Datum narození   </td>
+        <td>Název školy    </td>
+
+        <td>Jméno   </td>
+        <td>Příjmení      </td>
+        <td>PSČ    </td>
+        <td>Email    </td>
+        <td>Telefon    </td>
+
+
+    </tr>
+
+    @foreach (List<string> line in info)
+    {
+    <tr>
+        @foreach (string item in line)
+        {
+
+        <td>@item</td>
+       
+
+
+
+
+        }
+    </tr>
+    }
+
+
+
+</table>
+
+
+}
+
+
+
+

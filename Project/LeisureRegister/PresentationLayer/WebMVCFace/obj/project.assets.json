@@ -1,0 +1,165 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BusinessLayerLib/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0",
+          "DataAccessGeneralLib": "1.0.0",
+          "DataAccessMSSQLLib": "1.0.0",
+          "DataAccessXMLLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLayerLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLayerLib.dll": {}
+        }
+      },
+      "BusinessToDataAccessDTOLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BusinessToDataAccessDTOLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessToDataAccessDTOLib.dll": {}
+        }
+      },
+      "DataAccessGeneralLib/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessGeneralLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessGeneralLib.dll": {}
+        }
+      },
+      "DataAccessMSSQLLib/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0",
+          "DataAccessGeneralLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessMSSQLLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessMSSQLLib.dll": {}
+        }
+      },
+      "DataAccessXMLLib/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0",
+          "DataAccessGeneralLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessXMLLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessXMLLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessLayerLib/1.0.0": {
+      "type": "project",
+      "path": "../../BusinessLayer/BusinessLayerLib/BusinessLayerLib.csproj",
+      "msbuildProject": "../../BusinessLayer/BusinessLayerLib/BusinessLayerLib.csproj"
+    },
+    "BusinessToDataAccessDTOLib/1.0.0": {
+      "type": "project",
+      "path": "../../BL_DL_DTO_Layer/BusinessToDataAccessDTOLib/BusinessToDataAccessDTOLib.csproj",
+      "msbuildProject": "../../BL_DL_DTO_Layer/BusinessToDataAccessDTOLib/BusinessToDataAccessDTOLib.csproj"
+    },
+    "DataAccessGeneralLib/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccessLayer/DataAccessGeneralLib/DataAccessGeneralLib.csproj",
+      "msbuildProject": "../../DataAccessLayer/DataAccessGeneralLib/DataAccessGeneralLib.csproj"
+    },
+    "DataAccessMSSQLLib/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccessLayer/DataAccessMSSQLLib/DataAccessMSSQLLib.csproj",
+      "msbuildProject": "../../DataAccessLayer/DataAccessMSSQLLib/DataAccessMSSQLLib.csproj"
+    },
+    "DataAccessXMLLib/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccessLayer/DataAccessXMLLib/DataAccessXMLLib.csproj",
+      "msbuildProject": "../../DataAccessLayer/DataAccessXMLLib/DataAccessXMLLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BusinessLayerLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dan Krupa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\WebMVCFace.csproj",
+      "projectName": "WebMVCFace",
+      "projectPath": "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\WebMVCFace.csproj",
+      "packagesPath": "C:\\Users\\Dan Krupa\\.nuget\\packages\\",
+      "outputPath": "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dan Krupa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj": {
+              "projectPath": "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

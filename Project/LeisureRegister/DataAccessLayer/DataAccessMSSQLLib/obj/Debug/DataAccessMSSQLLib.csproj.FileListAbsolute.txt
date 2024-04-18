@@ -1,0 +1,45 @@
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.pdb
+E:\Consolidated\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CoreCompileInputs.cache
+E:\Consolidated\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.dll
+E:\Consolidated\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessGeneralLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessGeneralLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessGeneralLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessGeneralLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.pdb
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.dll
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessMSSQLLib.pdb
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessGeneralLib.dll
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\System.Data.SqlClient.dll
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\DataAccessGeneralLib.pdb
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\bin\Debug\System.Data.SqlClient.xml
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.csproj.CopyComplete
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.dll
+F:\NextCloud\Leisure\DataAccessLayer\DataAccessMSSQLLib\obj\Debug\DataAccessMSSQLLib.pdb

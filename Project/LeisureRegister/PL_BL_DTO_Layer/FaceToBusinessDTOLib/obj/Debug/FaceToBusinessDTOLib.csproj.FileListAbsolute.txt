@@ -1,0 +1,14 @@
+E:\Consolidated\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\bin\Debug\FaceToBusinessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\bin\Debug\FaceToBusinessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PL_BL_DTO_Layer\FaceToBusinessDTOLib\bin\Debug\FaceToBusinessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PL_BL_DTO_Layer\FaceToBusinessDTOLib\bin\Debug\FaceToBusinessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PL_BL_DTO_Layer\FaceToBusinessDTOLib\obj\Debug\FaceToBusinessDTOLib.pdb

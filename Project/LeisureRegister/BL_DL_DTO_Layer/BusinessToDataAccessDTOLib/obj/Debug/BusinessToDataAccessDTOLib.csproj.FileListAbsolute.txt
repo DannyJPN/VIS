@@ -1,0 +1,22 @@
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.pdb
+E:\Consolidated\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.CoreCompileInputs.cache
+E:\Consolidated\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.dll
+E:\Consolidated\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\bin\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\bin\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BL_DL_DTO_Layer\BusinessToDataAccessDTOLib\obj\Debug\BusinessToDataAccessDTOLib.pdb

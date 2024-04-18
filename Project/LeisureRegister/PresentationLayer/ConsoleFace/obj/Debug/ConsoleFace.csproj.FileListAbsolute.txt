@@ -1,0 +1,60 @@
+E:\Consolidated\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.SuggestedBindingRedirects.cache
+E:\Consolidated\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.exe.config
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.exe
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessLayerLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessGeneralLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessToDataAccessDTOLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessMSSQLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessXMLLib.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessLayerLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessGeneralLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessToDataAccessDTOLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessMSSQLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessXMLLib.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CopyComplete
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.exe
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.exe.config
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.exe
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\BusinessLayerLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\DataAccessGeneralLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\BusinessToDataAccessDTOLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\DataAccessMSSQLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\DataAccessXMLLib.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\BusinessLayerLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\DataAccessGeneralLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\BusinessToDataAccessDTOLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\DataAccessMSSQLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\bin\Debug\DataAccessXMLLib.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.SuggestedBindingRedirects.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.exe
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.exe.config
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.exe
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\ConsoleFace.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessLayerLib.dll
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessGeneralLib.dll
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessToDataAccessDTOLib.dll
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessMSSQLLib.dll
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessXMLLib.dll
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessLayerLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessGeneralLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\BusinessToDataAccessDTOLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessMSSQLLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\bin\Debug\DataAccessXMLLib.pdb
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.SuggestedBindingRedirects.cache
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.csproj.CopyComplete
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.exe
+F:\NextCloud\Leisure\PresentationLayer\ConsoleFace\obj\Debug\ConsoleFace.pdb

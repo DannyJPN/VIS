@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebMVCFace/1.0.0": {
+        "dependencies": {
+          "BusinessLayerLib": "1.0.0"
+        },
+        "runtime": {
+          "WebMVCFace.dll": {}
+        }
+      },
+      "BusinessLayerLib/1.0.0": {
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0",
+          "DataAccessGeneralLib": "1.0.0",
+          "DataAccessMSSQLLib": "1.0.0",
+          "DataAccessXMLLib": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayerLib.dll": {}
+        }
+      },
+      "BusinessToDataAccessDTOLib/1.0.0": {
+        "runtime": {
+          "BusinessToDataAccessDTOLib.dll": {}
+        }
+      },
+      "DataAccessGeneralLib/1.0.0": {
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0"
+        },
+        "runtime": {
+          "DataAccessGeneralLib.dll": {}
+        }
+      },
+      "DataAccessMSSQLLib/1.0.0": {
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0",
+          "DataAccessGeneralLib": "1.0.0"
+        },
+        "runtime": {
+          "DataAccessMSSQLLib.dll": {}
+        }
+      },
+      "DataAccessXMLLib/1.0.0": {
+        "dependencies": {
+          "BusinessToDataAccessDTOLib": "1.0.0",
+          "DataAccessGeneralLib": "1.0.0"
+        },
+        "runtime": {
+          "DataAccessXMLLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebMVCFace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessToDataAccessDTOLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccessGeneralLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccessMSSQLLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccessXMLLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,134 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Registrace";
+
+}
+
+
+@model RegisterFormModel
+
+<h1> Registrace</h1>
+
+
+
+
+@using (Html.BeginForm("Save", "Home", FormMethod.Post))
+{
+   
+    <div>
+
+        <table>
+
+
+            <tr>
+                <td>Jméno dítěte @Html.TextBoxFor(x => x.name); </td>
+                <td>   Číslo pojišťovny @Html.TextBoxFor(x => x.insurancecompany);</td>
+                <td>  Jméno matky      @Html.TextBoxFor(x => x.mothername); </td>
+                <td> Jméno otce      @Html.TextBoxFor(x => x.fathername); </td>
+
+            </tr>
+            <tr>
+                <td> Příjmení dítěte @Html.TextBoxFor(x => x.surname); </td>
+                <td>  Název školy @Html.TextBoxFor(x => x.schoolname);</td>
+                <td>  Příjmení matky   @Html.TextBoxFor(x => x.mothersurname);</td>
+                <td>Příjmení otce   @Html.TextBoxFor(x => x.fathersurname); </td>
+
+            </tr>
+            <tr>
+                <td>    Datum narození dítěte @Html.EditorFor(x => x.birthdate); </td>
+                <td>    Registrační číslo @Html.TextBoxFor(x => x.registrationnumber);       </td>
+                <td>    Zaměstnání matky @Html.TextBoxFor(x => x.motherjob);      </td>
+                <td> Zaměstnání otce @Html.TextBoxFor(x => x.fatherjob);</td>
+
+            </tr>
+            <tr>
+                <td>  Ulice @Html.TextBoxFor(x => x.street); </td>
+                <td> </td>
+                <td>   Telefon matky    @Html.TextBoxFor(x => x.motherphone); </td>
+                <td>   Telefon otce    @Html.TextBoxFor(x => x.fatherphone);</td>
+
+            </tr>
+            <tr>
+                <td>   Číslo popisné @Html.TextBoxFor(x => x.descriptionnumber);</td>
+                <td> </td>
+                <td> Email matky      @Html.TextBoxFor(x => x.motheremail);</td>
+                <td>Email otce      @Html.TextBoxFor(x => x.fatheremail); </td>
+
+            </tr>
+            <tr>
+                <td> Číslo orientační @Html.TextBoxFor(x => x.orientationnumber);</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td>  Město @Html.TextBoxFor(x => x.cityname);</td>
+                <td>  Část města @Html.TextBoxFor(x => x.citypartname);</td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td> PSČ @Html.TextBoxFor(x => x.postalcode);</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td>Zdravotní stav @Html.TextBoxFor(x => x.healthstate); </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td> Vaše připomínky pro nás @Html.TextBoxFor(x => x.comments); </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td>   Email dítěte @Html.TextBoxFor(x => x.email);</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td>  Telefon dítěte @Html.TextBoxFor(x => x.phone);</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+
+            </tr>
+            <tr>
+                <td> Souhlasím s pořizováním fotografií dítěte na akcích @Html.CheckBoxFor(x => x.photoagree); </td>
+                <td> Souhlasím s GDPR @Html.CheckBoxFor(x => x.gpdragree);</td>
+                <td> Souhlasím se zasíláním newsletterů @Html.CheckBoxFor(x => x.newsletteragree);</td>
+                <td> Odchody bez doprovodu @Html.CheckBoxFor(x => x.leavingalone);                             </td>
+
+            </tr>
+        </table>
+
+
+
+
+
+
+
+
+    </div>
+    <div>
+        <button type="submit" value="search" name="action">Uložit</button>
+        <button type="submit" value="add" name="action">Uložit a přejít na zápis do kroužků</button>
+
+    </div>
+
+
+}
+

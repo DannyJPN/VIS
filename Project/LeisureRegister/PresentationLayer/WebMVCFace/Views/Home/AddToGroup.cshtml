@@ -1,0 +1,105 @@
+﻿@using BusinessLayer.BusinessLayerLib.Classes.DataContainers;
+@model WebMVCFace.Models.AddingFormModel
+
+@{
+    ViewData["Title"] = "Zápis do kroužku";
+    int defaultchildid = ViewBag.DefaultKid.ID;
+}
+
+<h2>Zápis do kroužku</h2>
+
+@using (Html.BeginForm("AddToGroup","Home",FormMethod.Post))
+{
+
+
+    <div>
+        <table>
+
+
+            <tr>
+                <td>Školní rok</td>
+                <td>Vyberte dítě</td>
+                <td>Dostupné kroužky</td>
+                <td></td>
+                <td>Zvolené kroužky</td>
+
+            </tr>
+
+
+            <tr>
+                <td>
+
+                    <select name="seasons">
+                        @{
+                            foreach (string season in ViewBag.Seasons)
+                            {
+                                <option value="@season">@season</option>
+                            }
+                        }
+                    </select>
+
+
+
+                </td>
+
+                <td rowspan="8">
+                    <select name="kids">
+                        @{
+                            foreach (int kidid in ViewBag.KidIDs)
+                            {
+                                if (kidid == defaultchildid)
+                                {
+                                    <option value="@kidid" selected>
+                                        @{
+                                            Child kid = Child.Load(kidid);
+                                            String.Format("{0} {1}", kid.Name, kid.Surname);
+
+                                         }
+                                                </option>
+                                            }
+                                            else
+                                            {
+                                    <option value="@kidid">
+                                       @{ Child kid = Child.Load(kidid);
+                                           String.Format("{0} {1}", kid.Name, kid.Surname);
+                                       }
+                                    </option>
+                                   }
+                           }
+                      }
+                    </select>
+
+
+
+                </td>
+                <td rowspan="8">
+                    <select name="groups" multiple>
+                        @{
+                            foreach (int groupid in ViewBag.GroupIDs)
+                            {
+
+                                <option value="@groupid">
+                                    @{ HobbyGroup group = HobbyGroup.Load(groupid);
+                                        String.Format("{0}", group.Name );
+                                    }
+                                </option>
+                            }
+                        }
+                    </select>
+
+
+
+                </td>
+
+
+
+
+            </tr>
+
+        </table>
+
+
+
+
+    </div>
+}

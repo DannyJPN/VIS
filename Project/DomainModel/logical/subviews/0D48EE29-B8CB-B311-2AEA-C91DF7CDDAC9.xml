@@ -1,0 +1,176 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0D48EE29-B8CB-B311-2AEA-C91DF7CDDAC9" name="Child">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:38:12 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID" id="AC681EA0-BEE9-62C0-558F-972F8129D9B1">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:40:36 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Name" id="8CD4C954-2E25-D9D2-FDD8-45CBF24B4295">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:41:03 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Surname" id="241C090F-2FA0-154D-0BDF-1DE3F01AEDE6">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:41:22 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="AddressID" id="B7CA8F3F-090B-BA02-9F19-9C3D0BA99E3A">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:42:19 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="MotherID" id="9D4CA368-725A-D0BD-29A0-0CD7DDCA87B1">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:42:34 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="FatherID" id="147DE942-4AD6-AA19-B531-5A553AA633DC">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:42:51 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="InsuranceCompanyID" id="1A3565EE-074A-85A2-5871-9090C28B9FB4">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:43:09 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="SchoolName" id="8385A89D-0033-C33D-FAFB-9240B931934D">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:43:28 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>80</dataTypeSize>
+<ownDataTypeParameters>80,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="BirthDate" id="0701E3B2-80F6-4080-D082-523457496BF0">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:45:42 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>91229484-D19C-D458-8647-333C7FFE7B60</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Comments" id="70226D43-3083-674A-F178-3EF8CA73FABE">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:46:04 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>256</dataTypeSize>
+<ownDataTypeParameters>256,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="HealthState" id="2F6B7301-FE5D-506C-5231-B710D8CE87BC">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:47:29 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="2095EF2C-91B8-AE3F-D61C-1DC3C9DBCC55" name="Child PK">
+<createdBy>Dan</createdBy>
+<createdTime>2019-10-19 20:41:01 UTC</createdTime>
+<ownerDesignName>DomainModel</ownerDesignName>
+<engineerTo>
+<item key="ABAA67DA-30AF-B570-8474-9FFAA6733D6B" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>AC681EA0-BEE9-62C0-558F-972F8129D9B1</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

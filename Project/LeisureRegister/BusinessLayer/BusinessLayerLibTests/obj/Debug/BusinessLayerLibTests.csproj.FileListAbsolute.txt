@@ -1,0 +1,56 @@
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegisterNew\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CoreCompileInputs.cache
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CoreCompileInputs.cache
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.dll
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.pdb
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CopyComplete
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.dll
+E:\Consolidated\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CopyComplete
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.dll
+C:\Users\Stanislav\Nextcloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\BusinessLayerLibTests.pdb
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.csproj.CopyComplete
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.dll
+F:\NextCloud\Leisure\BusinessLayer\BusinessLayerLibTests\obj\Debug\BusinessLayerLibTests.pdb

@@ -1,0 +1,84 @@
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.pdb
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.AssemblyReference.cache
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CoreCompileInputs.cache
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CopyComplete
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.dll
+E:\Consolidated\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.pdb
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CopyComplete
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.dll
+C:\Users\Stanislav\Nextcloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.pdb
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.AssemblyReference.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CoreCompileInputs.cache
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CopyComplete
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.dll
+H:\Můj disk\C#\Vývoj informačních systémů\Project\LeisureRegister\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\WebMVCFaceTests.pdb
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.AssemblyReference.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CoreCompileInputs.cache
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.csproj.CopyComplete
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.dll
+F:\NextCloud\Leisure\PresentationLayer\WebMVCFaceTests\obj\Debug\WebMVCFaceTests.pdb

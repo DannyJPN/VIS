@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\WebMVCFace.csproj": {}
+  },
+  "projects": {
+    "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj",
+        "projectName": "BusinessToDataAccessDTOLib",
+        "projectPath": "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj",
+        "projectName": "BusinessLayerLib",
+        "projectPath": "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj"
+              },
+              "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj"
+              },
+              "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessMSSQLLib\\DataAccessMSSQLLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessMSSQLLib\\DataAccessMSSQLLib.csproj"
+              },
+              "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessXMLLib\\DataAccessXMLLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessXMLLib\\DataAccessXMLLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj",
+        "projectName": "DataAccessGeneralLib",
+        "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessMSSQLLib\\DataAccessMSSQLLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessMSSQLLib\\DataAccessMSSQLLib.csproj",
+        "projectName": "DataAccessMSSQLLib",
+        "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessMSSQLLib\\DataAccessMSSQLLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj"
+              },
+              "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessXMLLib\\DataAccessXMLLib.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessXMLLib\\DataAccessXMLLib.csproj",
+        "projectName": "DataAccessXMLLib",
+        "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessXMLLib\\DataAccessXMLLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\BL_DL_DTO_Layer\\BusinessToDataAccessDTOLib\\BusinessToDataAccessDTOLib.csproj"
+              },
+              "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\DataAccessLayer\\DataAccessGeneralLib\\DataAccessGeneralLib.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\WebMVCFace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\WebMVCFace.csproj",
+        "projectName": "WebMVCFace",
+        "projectPath": "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\WebMVCFace.csproj",
+        "packagesPath": "C:\\Users\\Dan Krupa\\.nuget\\packages\\",
+        "outputPath": "F:\\NextCloud\\Leisure\\PresentationLayer\\WebMVCFace\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dan Krupa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj": {
+                "projectPath": "F:\\NextCloud\\Leisure\\BusinessLayer\\BusinessLayerLib\\BusinessLayerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
